@@ -163,19 +163,9 @@ Citation
 If you use this work, please cite the corresponding paper after publication.
 
 @article{gafdfine,
-  title   = {Geometry-aware feature refinement and localization-quality estimation for rail surface defect detection},
+  title   = {GAF-D-FINE: a rail surface defect detection model with geometry-aware feature refinement and localization-quality estimation},
   author  = {Liu, Xiangju and Qi, Lin},
-  journal = {Journal of Electronic Imaging},
   year    = {2026}
 }
 
-The citation information above is a placeholder and should be updated after the paper is formally published.
 
-Contact
-
-For questions about the implementation, please contact:
-
-Lin Qi
-School of Computer Science and Engineering
-Anhui University of Science and Technology
-Email: 2025201540@aust.edu.cn
